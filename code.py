@@ -1,1 +1,0 @@
-print("JJ+Entry Course")
